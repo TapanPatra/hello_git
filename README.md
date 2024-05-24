@@ -6,8 +6,8 @@
 - Scrum
 	- [ ] [pluralsight Using the Scrum Framework](https://app.pluralsight.com/paths/skill/the-scrum-framework)
 - Postman
-	- [ ] [Test automation University course: Exploring Service APIs through Test Automation by Amber Race]( )
-	- [ ] [Test automation University course: API Test Automation with Postman by Beth Marshall]( )
+	- [ ] [Test automation University course: Exploring Service APIs through Test Automation by Amber Race](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/)
+	- [ ] [Test automation University course: API Test Automation with Postman by Beth Marshall](https://testautomationu.applitools.com/postman-tutorial)
 - JMeter
 	- [ ] [testtribe JMeter Course ](https://www.thetesttribe.com/courses/jmeter-course/)
 - Azure DevOps & CI
