@@ -11,7 +11,8 @@
 - JMeter
 	- [ ] [testtribe JMeter Course ](https://www.thetesttribe.com/courses/jmeter-course/)
 - Azure DevOps & CI
-	- [ ] [ ]( )
+	- [ ] [pluralsight mplementing DevOps with GitHub and Microsoft Azure](https://app.pluralsight.com/paths/skill/implementing-devops-with-github-and-microsoft-azure)
+	- [ ] [pluralsight Azure DevOps Services Fundamentals](https://app.pluralsight.com/library/courses/azure-devops-services-fundamentals)
 - C#
 	- [x] [Udemy C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/course/csharp-tutorial-for-beginners)
 	- [x] [Udemy C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop)
